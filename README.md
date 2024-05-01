@@ -14,7 +14,7 @@ source venv/bin/activate
 # If you want to run this script on system startup you have to use this:
 crontab -e
 @reboot /my_project/venv/bin/python3 /my_project/display_stats_new.py
-crontab -l
+
 # Once you reboot your raspberry it should show the disply stats
 
 # All this work is a result of many hours with ChatGPT because I am not a python programmer.
