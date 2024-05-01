@@ -9,7 +9,7 @@ cd my_project
 python3 -m venv venv
 # Now you have to activate this virtual environment:
 source venv/bin/activate
-# Now install all libraries with pip command (LUMA.ole - https://luma-core.readthedocs.io/en/stable/intro.html)
+# Now install all libraries with pip command (LUMA.oled - https://luma-core.readthedocs.io/en/stable/intro.html)
 # Save file display_stats_new.py in this directory.
 # If you want to run this script on system startup you have to use this:
 crontab -e
