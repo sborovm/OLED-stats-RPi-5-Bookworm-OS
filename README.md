@@ -15,6 +15,6 @@ source venv/bin/activate
 crontab -e
 @reboot /my_project/venv/bin/python3 /my_project/display_stats_new.py
 crontab -l
-Once you reboot your raspberry it should show the disply stats
+# Once you reboot your raspberry it should show the disply stats
 
-All this work is a result of many hours with ChatGPT because I am not a python programmer.
+# All this work is a result of many hours with ChatGPT because I am not a python programmer.
